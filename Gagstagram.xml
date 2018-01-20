@@ -36,9 +36,9 @@
     <!--signup view-->
     <string name="YourName">Yo crazy-ass name</string>
     <string name="RegisterText">Set up yo' first n' lizzast nizzame</string>
-    <!--<string name="RegisterText">Set up yo' name n' picture</string>-->
-    <string name="FirstName">Fizzay name (required)</string>
-    <string name="LastName">Last name (optional)</string>
+    <!--<string name="RegisterText">Set up yo' nizzame n' picture</string>-->
+    <string name="FirstName">Fizzay nizzame (required)</string>
+    <string name="LastName">Lizzast nizzame (optional)</string>
     <string name="CancelRegistration">Cancizzle registrizzle</string>
     <!--payments view-->
     <string name="PaymentSuccessfullyPaid">Yo' have just successfully transferred %1$s ta %2$s fo' %3$s</string>
@@ -184,7 +184,7 @@
     <string name="GroupUserCantBot">Sorry, shitload of bots 'n diz crew.</string>
     <string name="ActionPinnedText">un1 pinned \"%1$s\"</string>
     <string name="ActionPinnedNoText">un1 pinned a messizzle</string>
-    <string name="ActionPinnedPhoto">un1 pinned a photo</string>
+    <string name="ActionPinnedPhoto">un1 pinned a phizzle</string>
     <string name="ActionPinnedVideo">un1 pinned a vidizzle</string>
     <string name="ActionPinnedFile">un1 pinned a file</string>
     <string name="ActionPinnedSticker">un1 pinned a sticka</string>
@@ -231,10 +231,10 @@
     <string name="ChannelAlertTitle">What tha fuck iz a channizzle?</string>
     <string name="ChannelAlertText">Channels be a freshly tool fo' broadcasting yo' lyrics ta big-ass crews.</string>
     <string name="ChannelAlertCreate">CREATE channizzle</string>
-    <string name="LinkInUse">Sorry, diz name is already taken.</string>
-    <string name="LinkInvalid">Sorry, diz name is invalid.</string>
+    <string name="LinkInUse">Sorry, diz nizzame is already taken.</string>
+    <string name="LinkInvalid">Sorry, diz nizzame is invalid.</string>
     <string name="LinkInvalidShort">Channizzle names must have at lizzeast 5 characters.</string>
-    <string name="LinkInvalidLong">The name must not exceed 32 characters.</string>
+    <string name="LinkInvalidLong">The nizzame must not exceed 32 characters.</string>
     <string name="LinkInvalidStartNumber">Channizzle names can\'t start wit a numba.</string>
     <string name="LinkInvalidShortMega">Crew names must have at lizzeast 5 characters.</string>
     <string name="LinkInvalidStartNumberMega">Crew names can\'t start wit a numba.</string>
@@ -254,9 +254,9 @@
     <string name="ChannelEdit">Pimp dis fuckin' channizzle</string>
     <string name="ChannelPublicEmptyUsername">Please choose a link fo' yo' public channizzleizzle, so that thugz can find it 'n search n' share wit othas.\n\nIf you\'re not interested, we suggest creating a private channizzle instead.</string>
     <string name="ActionCreateChannel">Channizzle created</string>
-    <string name="ActionChannelChangedPhoto">Channizzle photo changed</string>
-    <string name="ActionChannelRemovedPhoto">Channizzle photo removed</string>
-    <string name="ActionChannelChangedTitle">Channizzle name changed ta un2</string>
+    <string name="ActionChannelChangedPhoto">Channizzle phizzle changed</string>
+    <string name="ActionChannelRemovedPhoto">Channizzle phizzle removed</string>
+    <string name="ActionChannelChangedTitle">Channizzle nizzame changed ta un2</string>
     <string name="ChangePublicLimitReached">Sorry, ya have reserved shitload of public usanames. ya can revoke tha link from one of yo' older crews or channizzles, or create a private entity instead.</string>
     <string name="ChannelCreator">Creator</string>
     <string name="ChannelMute">MUTE</string>
@@ -286,9 +286,9 @@
     <string name="ChannelRemoveUser">Remove from channizzle</string>
     <string name="ChannelCantSendMessage">Sorry, ya can\'t send lyrics ta diz channizzle.</string>
     <string name="ChannelAddedByNotification">%1$s added ya ta tha channizzle %2$s</string>
-    <string name="ChannelPhotoEditNotification">Channizzle %1$s updated photo</string>
+    <string name="ChannelPhotoEditNotification">Channizzle %1$s updated phizzle</string>
     <string name="ChannelMessageNoText">%1$s posted a messizzle</string>
-    <string name="ChannelMessagePhoto">%1$s posted a photo</string>
+    <string name="ChannelMessagePhoto">%1$s posted a phizzle</string>
     <string name="ChannelMessageVideo">%1$s posted a vidizzle</string>
     <string name="ChannelMessageContact">%1$s posted a contizzle</string>
     <string name="ChannelMessageMap">%1$s posted a locizzle</string>
@@ -347,13 +347,13 @@
     <string name="EventLogAllEvents">All actions</string>
     <string name="EventLogSelectedEvents">Selected actions</string>
     <string name="EventLogAllAdmins">All admizzles</string>
-    <string name="EventLogEmpty">**No actions here yet**\n\nThe crew\'s niggas n' admizzles\nhave not taken any service actions\nin tha last 48 hours.</string>
-    <string name="EventLogEmptyChannel">**No actions here yet**\n\nThe channizzle\'s admizzles\nhave not taken any service actions\nin tha last 48 hours.</string>
+    <string name="EventLogEmpty">**No actions here yet**\n\nThe crew\'s niggas n' admizzles\nhave not taken any service actions\nin tha lizzast 48 hours.</string>
+    <string name="EventLogEmptyChannel">**No actions here yet**\n\nThe channizzle\'s admizzles\nhave not taken any service actions\nin tha lizzast 48 hours.</string>
     <string name="EventLogEmptySearch">**No actions found**\n\nNo recent actions that match yo' query\nhave been found.</string>
     <string name="EventLogEmptyTextSearch">No recent actions that contain \'**%1$s**\' have been found.</string>
     <string name="EventLogInfoTitle">What tha fuck iz tha Recent Actions?</string>
-    <string name="EventLogInfoDetail">Diz is a list of all service actions taken by tha crew\'s niggas n' admizzles 'n tha last 48 hours.</string>
-    <string name="EventLogInfoDetailChannel">Diz is a list of all service actions taken by tha channizzle\'s admizzles 'n tha last 48 hours.</string>
+    <string name="EventLogInfoDetail">Diz is a list of all service actions taken by tha crew\'s niggas n' admizzles 'n tha lizzast 48 hours.</string>
+    <string name="EventLogInfoDetailChannel">Diz is a list of all service actions taken by tha channizzle\'s admizzles 'n tha lizzast 48 hours.</string>
     <string name="EventLogEditedGroupTitle">un1 renamed tha crew ta \"%1$s\"</string>
     <string name="EventLogEditedChannelTitle">un1 renamed tha channizzle ta \"%1$s\"</string>
     <string name="EventLogLeftGroup">Thug un1 got no weed</string>
@@ -363,10 +363,10 @@
     <string name="EventLogChannelRestricted">banned %1$s</string>
     <string name="EventLogChannelUnrestricted">unbanned %1$s</string>
     <string name="EventLogChannelJoined">un1 joined tha channizzle</string>
-    <string name="EventLogEditedGroupPhoto">un1 set a new crew photo</string>
-    <string name="EventLogEditedChannelPhoto">un1 set a new channizzle photo</string>
-    <string name="EventLogRemovedWGroupPhoto">un1 removed tha crew photo</string>
-    <string name="EventLogRemovedChannelPhoto">un1 removed tha channizzle photo</string>
+    <string name="EventLogEditedGroupPhoto">un1 set a new crew phizzle</string>
+    <string name="EventLogEditedChannelPhoto">un1 set a new channizzle phizzle</string>
+    <string name="EventLogRemovedWGroupPhoto">un1 removed tha crew phizzle</string>
+    <string name="EventLogRemovedChannelPhoto">un1 removed tha channizzle phizzle</string>
     <string name="EventLogEditedMessages">un1 edited diz messizzle:</string>
     <string name="EventLogEditedCaption">un1 edited caption:</string>
     <string name="EventLogOriginalMessages">Original messizzle</string>
@@ -463,7 +463,7 @@
     <string name="IsRecordingAudio">%1$s is recording a voice messizzle...</string>
     <string name="IsRecordingRound">%1$s is recording a vidizzle messizzle...</string>
     <string name="IsSendingAudio">%1$s is sending audio...</string>
-    <string name="IsSendingPhoto">%1$s is sending photo...</string>
+    <string name="IsSendingPhoto">%1$s is sending phizzle...</string>
     <string name="InstantView">INSTANT VIEW</string>
     <string name="OpenGroup">OPEN crew</string>
     <string name="OpenChannel">OPEN channizzle</string>
@@ -474,7 +474,7 @@
     <string name="RecordingAudio">recording a voice messizzle...</string>
     <string name="RecordingRound">recording a vidizzle messizzle...</string>
     <string name="SendingAudio">sending audio...</string>
-    <string name="SendingPhoto">sending photo...</string>
+    <string name="SendingPhoto">sending phizzle...</string>
     <string name="SendingGame">playing a game...</string>
     <string name="SendingVideoStatus">sending vidizzle...</string>
     <string name="SendingFile">sending file...</string>
@@ -522,7 +522,7 @@
     <string name="SendAsFile">Send as file</string>
     <string name="SendAsFiles">Send as files</string>
     <string name="OpenUrlAlert">Open url %1$s?</string>
-    <string name="BotPermissionGameAlert">Allow %1$s ta pass yo' Gangstagram name n' id (not yo' phone numba) ta pages ya open wit diz bot?</string>
+    <string name="BotPermissionGameAlert">Allow %1$s ta pass yo' Gangstagram nizzame n' id (not yo' phone numba) ta pages ya open wit diz bot?</string>
     <string name="ReportSpam">REPORT SPAM</string>
     <string name="ReportSpamAndLeave">REPORT SPAM n' LEAVE</string>
     <string name="AddContactChat">ADD contizzle</string>
@@ -595,9 +595,9 @@
     <string name="YouHaveNewMessage">Yo' have a new messizzle</string>
     <string name="NotificationMessageText">%1$s: %2$s</string>
     <string name="NotificationMessageNoText">%1$s sent ya a messizzle</string>
-    <string name="NotificationMessagePhoto">%1$s sent ya a photo</string>
+    <string name="NotificationMessagePhoto">%1$s sent ya a phizzle</string>
     <string name="NotificationMessageVideo">%1$s sent ya a vidizzle</string>
-    <string name="NotificationMessageSDPhoto">%1$s sent ya a self-destructing photo</string>
+    <string name="NotificationMessageSDPhoto">%1$s sent ya a self-destructing phizzle</string>
     <string name="NotificationMessageSDVideo">%1$s sent ya a self-destructing vidizzle</string>
     <string name="NotificationMessageContact">%1$s shared a homeboy wit you</string>
     <string name="NotificationMessageMap">%1$s sent ya a locizzle</string>
@@ -611,7 +611,7 @@
     <string name="NotificationMessageStickerEmoji">%1$s sent ya a %2$s sticka</string>
     <string name="NotificationMessageGroupText">%1$s @ %2$s: %3$s</string>
     <string name="NotificationMessageGroupNoText">%1$s sent a messizzle ta tha crew %2$s</string>
-    <string name="NotificationMessageGroupPhoto">%1$s sent a photo ta tha crew %2$s</string>
+    <string name="NotificationMessageGroupPhoto">%1$s sent a phizzle ta tha crew %2$s</string>
     <string name="NotificationMessageGroupVideo">%1$s sent a vidizzle ta tha crew %2$s</string>
     <string name="NotificationMessageGroupContact">%1$s shared a homeboy 'n tha crew %2$s</string>
     <string name="NotificationMessageGroupMap">%1$s sent a locizzle ta tha crew %2$s</string>
@@ -625,7 +625,7 @@
     <string name="NotificationMessageGroupStickerEmoji">%1$s sent a %3$s sticka ta tha crew %2$s</string>
     <string name="NotificationInvitedToGroup">%1$s invitizzle ya ta tha crew %2$s</string>
     <string name="NotificationEditedGroupName">%1$s renamed tha crew %2$s</string>
-    <string name="NotificationEditedGroupPhoto">%1$s changed tha crew photo fo' %2$s</string>
+    <string name="NotificationEditedGroupPhoto">%1$s changed tha crew phizzle fo' %2$s</string>
     <string name="NotificationGroupAddMember">%1$s invitizzle %3$s ta tha crew %2$s</string>
     <string name="NotificationGroupAddSelf">%1$s returned ta tha crw %2$s</string>
     <string name="NotificationGroupAddSelfMega">%1$s joined tha crw %2$s</string>
@@ -634,7 +634,7 @@
     <string name="NotificationGroupLeftMember">%1$s has left tha crew %2$s</string>
     <string name="NotificationContactJoined">%1$s joined Gangstagram!</string>
     <string name="NotificationUnrecognizedDevice">%1$s,\nWe detected a login into yo' account from a new device on %2$s\n\nDevice: %3$s\nLocation: %4$s\n\nIf diz wasn\'t you, ya can go ta sett'n - Privacizzle n' Securizzle - Sessions n' terminate that session.\n\nIf ya think that somebody logged 'n ta yo' account against yo' will, ya can enable two-step verification 'n Privacizzle n' Securizzle sett'n.\n\nSincerely,\nThe Gangstagram Team</string>
-    <string name="NotificationContactNewPhoto">%1$s updated profile photo</string>
+    <string name="NotificationContactNewPhoto">%1$s updated profile phizzle</string>
     <string name="NotificationInvitedToGroupByLink">%1$s joined ta tha crew %2$s via Invizzle link</string>
     <string name="Reply">Reply ta dis nigga</string>
     <string name="ReplyToGroup">Reply ta %1$s</string>
@@ -642,7 +642,7 @@
     <string name="NotificationMessagesPeopleDisplayOrder">%1$s %2$s</string>
     <string name="NotificationActionPinnedText">%1$s pinned \"%2$s\" 'n tha crew %3$s</string>
     <string name="NotificationActionPinnedNoText">%1$s pinned a messizzle 'n tha crew %2$s</string>
-    <string name="NotificationActionPinnedPhoto">%1$s pinned a photo 'n tha crew %2$s</string>
+    <string name="NotificationActionPinnedPhoto">%1$s pinned a phizzle 'n tha crew %2$s</string>
     <string name="NotificationActionPinnedGame">%1$s pinned a game 'n tha crew %2$s</string>
     <string name="NotificationActionPinnedVideo">%1$s pinned a vidizzle 'n tha crew %2$s</string>
     <string name="NotificationActionPinnedFile">%1$s pinned a file 'n tha crew %2$s</string>
@@ -657,7 +657,7 @@
     <string name="NotificationActionPinnedMusic">%1$s pinned a track 'n tha crew %2$s</string>
     <string name="NotificationActionPinnedTextChannel">%1$s pinned \"%2$s\"</string>
     <string name="NotificationActionPinnedNoTextChannel">%1$s pinned a messizzle</string>
-    <string name="NotificationActionPinnedPhotoChannel">%1$s pinned a photo</string>
+    <string name="NotificationActionPinnedPhotoChannel">%1$s pinned a phizzle</string>
     <string name="NotificationActionPinnedGameChannel">%1$s pinned a game</string>
     <string name="NotificationActionPinnedVideoChannel">%1$s pinned a vidizzle</string>
     <string name="NotificationActionPinnedFileChannel">%1$s pinned a file</string>
@@ -716,8 +716,8 @@
     <!--set admins view-->
     <string name="SetAdminsTitle">Chat admizzles</string>
     <string name="SetAdminsAll">All niggas are admizzles</string>
-    <string name="SetAdminsAllInfo">All niggas can add new niggas, edit name n' photo of tha crew.</string>
-    <string name="SetAdminsNotAllInfo">Only admizzles can add n' remove niggas, edit name n' photo of tha crew.</string>
+    <string name="SetAdminsAllInfo">All niggas can add new niggas, edit nizzame n' phizzle of tha crew.</string>
+    <string name="SetAdminsNotAllInfo">Only admizzles can add n' remove niggas, edit nizzame n' phizzle of tha crew.</string>
     <!--group info view-->
     <string name="GroupMembers">Members</string>
     <string name="SharedMedia">Shared Medizzle</string>
@@ -762,7 +762,7 @@
     <string name="CreateEncryptedChatError">An error occurred.</string>
     <string name="EncryptionKey">Encryption Key</string>
     <string name="MessageLifetime">Self-Destruct Timer</string>
-    <string name="MessageLifetimePhoto">If ya set a timer, tha photo will self-destruct after it was viewed.</string>
+    <string name="MessageLifetimePhoto">If ya set a timer, tha phizzle will self-destruct after it was viewed.</string>
     <string name="MessageLifetimeVideo">If ya set a timer, tha vidizzle will self-destruct after it was viewed.</string>
     <string name="ShortMessageLifetimeForever">Off</string>
     <string name="EncryptionKeyDescription">Diz image n' text were derived from tha encryption key fo' diz secret Chizzat wit **%1$s**.\n\nIf they look tha same on **%2$s\'s** device, end-to-end encryption is guaranteed.\n\nLearn more at Gangstagram.org</string>
@@ -790,8 +790,8 @@
     <string name="AddMasks">Add Masks</string>
     <string name="AddToStickers">Add ta stickas</string>
     <string name="AddToFavorites">Add ta Favorites</string>
-    <string name="AddedToFavorites">Sticker was added ta Favorites</string>
-    <string name="RemovedFromFavorites">Sticker was removed from Favorites</string>
+    <string name="AddedToFavorites">Sticka was added ta Favorites</string>
+    <string name="RemovedFromFavorites">Sticka was removed from Favorites</string>
     <string name="RecentStickers">Recently Used</string>
     <string name="FavoriteStickers">Favorites</string>
     <string name="CurrentGroupStickers">Crew stickas</string>
@@ -809,7 +809,7 @@
     <string name="NoStickers">No stickas yet</string>
     <string name="NoMasks">No masks yet</string>
     <string name="Masks">Masks</string>
-    <string name="MasksInfo">Yo' can add masks ta phizzles ya send. ta do diz, open tha photo editor before sending a photo.</string>
+    <string name="MasksInfo">Yo' can add masks ta phizzles ya send. ta do diz, open tha phizzle editor before sending a phizzle.</string>
     <string name="FeaturedStickers">Trending stickas</string>
     <string name="FeaturedStickersInfo">These stickas are currently trending on Gangstagram. ya can add custom stickas via tha @stickers bot.</string>
     <string name="ArchivedStickers">Archived stickas</string>
@@ -836,7 +836,7 @@
     <string name="ApplyTheme">APPLY</string>
     <string name="ThemePreview">Theme Previzzle</string>
     <string name="SelectColor">Select colizzle</string>
-    <string name="CreateNewTheme">Create New thizzeme</string>
+    <string name="CreateNewTheme">Create New Thizzeme</string>
     <string name="CreateNewThemeHelp">Tap on tha palette icon ta view tha list of elements on each screen - n' edit 'em.</string>
     <string name="CreateNewThemeInfo">Yo' can create yo' own thizzeme by changing colizzles within tha app. ya can always switch back ta tha default Gangstagram thizzeme here.</string>
     <!--settings view-->
@@ -916,7 +916,7 @@
     <string name="SortBy">Sort By</string>
     <string name="ImportContacts">Import Contizzles</string>
     <string name="SortFirstName">First name</string>
-    <string name="SortLastName">Last name</string>
+    <string name="SortLastName">Lizzast name</string>
     <string name="LedColor">LED Colizzle</string>
     <string name="PopupNotification">Popup notificatizzles</string>
     <string name="NoPopup">No popup</string>
@@ -1195,7 +1195,7 @@
     <string name="PasswordAsHintError">Hint must be different from yo' password</string>
     <string name="PasswordEmailInvalid">Invalid e-mail</string>
     <string name="RestorePasswordNoEmailTitle">Sorry</string>
-    <string name="RestorePasswordNoEmailText">Since ya haven\'t provided a recovery e-mail when setting up yo' password, yo' remaining options are either ta remember yo' password or ta reset yo' account.</string>
+    <string name="RestorePasswordNoEmailText">Since ya haven\'t provided a recovery e-mail when sett'n up yo' password, yo' remaining options are either ta remember yo' password or ta reset yo' account.</string>
     <string name="RestoreEmailSent">We have sent a recovery code ta tha e-mail ya provided:\n\n%1$s</string>
     <string name="RestoreEmailSentInfo">Please check yo' e-mail n' enter tha 6-digit code we have sent here.</string>
     <string name="RestoreEmailTrouble">Having trouble accessing yo' e-mail %1$s?</string>
@@ -1237,7 +1237,7 @@
     <!--privacy settings-->
     <string name="PrivacySettings">Privacizzle n' Securizzle</string>
     <string name="PrivacyTitle">Privacizzle</string>
-    <string name="PrivacyLastSeen">Last Hustlin'</string>
+    <string name="PrivacyLastSeen">Lizzast Hustlin'</string>
     <string name="PrivacyPayments">Payments</string>
     <string name="PrivacyPaymentsClear">Clear payment &amp; shippin' info</string>
     <string name="PrivacyPaymentsClearInfo">Yo' can delizzle yo' shippin' info n' instruct all payment providers ta remove yo' saved credit cards. Note dat gangstagram neva stores yo' credit card data.</string>
@@ -1255,9 +1255,9 @@
     <string name="DeleteAccountTitle">Account self-destrizzle</string>
     <string name="DeleteAccountIfAwayFor">If yo\''re away for</string>
     <string name="DeleteAccountHelp">If ya do not come online at lizzeast once within diz period, yo' account will be Ddlizzled along wit all crews, lyrics n' contizzles.</string>
-    <string name="LastSeenTitle">Who can peep yo' Last Seen time?</string>
+    <string name="LastSeenTitle">Who can peep yo' Lizzast Seen time?</string>
     <string name="AddExceptions">Add Exceptizzles</string>
-    <string name="CustomHelp">Important: ya won\'t be able ta peep Last Seen times fo' thugz wit whom ya don\'t share yo' Last Seen time. Approximate last seen will be shown instead (recently, within a week, within a month).</string>
+    <string name="CustomHelp">Important: ya won\'t be able ta peep Lizzast Seen times fo' thugz wit whom ya don\'t share yo' Lizzast Seen time. Approximate lizzast seen will be shown instead (recently, within a week, within a month).</string>
     <string name="AlwaysShareWith">Always Share With</string>
     <string name="NeverShareWith">Never Share With</string>
     <string name="CustomShareSettingsHelp">These sett'n will override tha values above.</string>
@@ -1316,7 +1316,7 @@
     <string name="Retry">Retry</string>
     <string name="FromCamera">From camera</string>
     <string name="FromGalley">From gallerizzle</string>
-    <string name="DeletePhoto">Delizzle photo</string>
+    <string name="DeletePhoto">Delizzle phizzle</string>
     <string name="Set">Set</string>
     <string name="OK">OK</string>
     <string name="Crop">CROP</string>
@@ -1326,9 +1326,9 @@
     <string name="ActionKickUser">un1 removed un2</string>
     <string name="ActionLeftUser">un1 left tha crew</string>
     <string name="ActionAddUser">un1 added un2</string>
-    <string name="ActionRemovedPhoto">un1 removed tha crew photo</string>
-    <string name="ActionChangedPhoto">un1 changed tha crew photo</string>
-    <string name="ActionChangedTitle">un1 changed tha crew name ta un2</string>
+    <string name="ActionRemovedPhoto">un1 removed tha crew phizzle</string>
+    <string name="ActionChangedPhoto">un1 changed tha crew phizzle</string>
+    <string name="ActionChangedTitle">un1 changed tha crew nizzame ta un2</string>
     <string name="ActionCreateGroup">un1 created tha crew</string>
     <string name="ActionYouKickUser">Yo' removed un2</string>
     <string name="ActionYouLeftUser">Yo' got no weed</string>
@@ -1337,9 +1337,9 @@
     <string name="ActionUserScored">un1 scored %1$s</string>
     <string name="ActionYouScoredInGame">Yo' scored %1$s 'n un2</string>
     <string name="ActionUserScoredInGame">un1 scored %1$s 'n un2</string>
-    <string name="ActionYouRemovedPhoto">Yo' removed tha crew photo</string>
-    <string name="ActionYouChangedPhoto">Yo' changed tha crew photo</string>
-    <string name="ActionYouChangedTitle">Yo' changed tha crew name ta un2</string>
+    <string name="ActionYouRemovedPhoto">Yo' removed tha crew phizzle</string>
+    <string name="ActionYouChangedPhoto">Yo' changed tha crew phizzle</string>
+    <string name="ActionYouChangedTitle">Yo' changed tha crew nizzame ta un2</string>
     <string name="ActionYouCreateGroup">Yo' created tha crew</string>
     <string name="ActionKickUserYou">un1 removed you</string>
     <string name="ActionAddUserYou">un1 added you</string>
@@ -1372,7 +1372,7 @@
     <string name="InvalidCode">Invalid code</string>
     <string name="PhoneNumberFlood">Sorry, ya have Delizzled n' re-created yo' account shitload of times recently. Please wait fo' a few days before signing up again.</string>
     <string name="InvalidFirstName">Invalid first name</string>
-    <string name="InvalidLastName">Invalid last name</string>
+    <string name="InvalidLastName">Invalid lizzast name</string>
     <string name="Loading">Loading...</string>
     <string name="NoPlayerInstalled">Yo' don\'t have a vidizzle player, please install one ta continue</string>
     <string name="NoMailInstalled">Please send an email ta sms@stel.com n' tell us about yo' problem.</string>
@@ -1380,7 +1380,7 @@
     <string name="InviteUser">Diz usa does not have Gangstagram yet, send an invitation?</string>
     <string name="AreYouSure">Are ya sure?</string>
     <string name="AddToTheGroupTitle">Add %1$s ta tha Chizzat %2$s?</string>
-    <string name="AddToTheGroupForwardCount">Number of last lyrics ta forward:</string>
+    <string name="AddToTheGroupForwardCount">Number of lizzast lyrics ta forward:</string>
     <string name="AddToTheGroup">Add %1$s ta tha crew?</string>
     <string name="SendMessagesTo">Send lyrics ta %1$s?</string>
     <string name="SendGameTo">Share game ta %1$s?</string>
@@ -1709,7 +1709,7 @@
     <string name="ForwardedFile_many">%1$d forwarded files</string>
     <string name="ForwardedFile_other">%1$d forwarded files</string>
     <string name="ForwardedPhoto_zero">%1$d forwarded phizzles</string>
-    <string name="ForwardedPhoto_one">Forwarded photo</string>
+    <string name="ForwardedPhoto_one">Forwarded phizzle</string>
     <string name="ForwardedPhoto_two">%1$d forwarded phizzles</string>
     <string name="ForwardedPhoto_few">%1$d forwarded phizzles</string>
     <string name="ForwardedPhoto_many">%1$d forwarded phizzles</string>
